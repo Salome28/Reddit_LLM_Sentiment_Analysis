@@ -1,6 +1,6 @@
 # Reddit Sentiment Analysis
 
-Project by [Salomé NKB](www.linkedin.com/in/salome28) (@Salome28), [Marta Fonseca](www.linkedin.com/in/mcrfonseca) (@Martacrf), [Taylor Shook](www.linkedin.com/in/taylorshook) (@Taylorshook1).
+Project by [Salomé NKB](https://linkedin.com/in/salome28) (@Salome28), [Marta Fonseca](https://linkedin.com/in/mcrfonseca) (@Martacrf), [Taylor Shook](https://linkedin.com/in/taylorshook) (@Taylorshook1).
 
 ### Exploration of sentiment trends and key discussion topics across multiple subreddits using Natural Language Processing, comparing data from 2019 to the present.
 
